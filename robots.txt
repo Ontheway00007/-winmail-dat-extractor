@@ -1,0 +1,20 @@
+# Winmail.dat Extractor
+User-agent: *
+Allow: /
+Disallow: /tools/
+Disallow: /404.html
+
+# AI answer engines are welcome; see /llms.txt
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://winmail-dat-extractor.vercel.app/sitemap.xml

@@ -1,0 +1,26 @@
+# Winmail.dat Extractor
+
+> Open winmail.dat files in your browser and download the trapped Outlook attachments as a ZIP. Everything runs client-side in the visitor's browser; the selected winmail.dat file is never uploaded to a server.
+
+## Tool
+- [Winmail.dat extractor](https://winmail-dat-extractor.vercel.app/): select a winmail.dat / TNEF file, extract the standard attachments and download them as one ZIP.
+
+## Guides
+- [What is a winmail.dat file?](https://winmail-dat-extractor.vercel.app/what-is-winmail-dat/): A winmail.dat file is an Outlook TNEF container. Learn what is inside it, why your email app cannot read it, and how to recover the real attachments safely.
+- [Winmail.dat viewer and opener](https://winmail-dat-extractor.vercel.app/winmail-dat-viewer/): Use a free online winmail.dat viewer to list the attachments inside a TNEF file before downloading, and learn how to judge any winmail.dat opener.
+- [How to open winmail.dat on iPhone and iPad](https://winmail-dat-extractor.vercel.app/how-to-open-winmail-dat-on-iphone/): Open winmail.dat on iPhone or iPad without installing an app. Save the attachment to Files, extract the Outlook attachments in Safari and open your PDF or Word file.
+- [How to open winmail.dat on Android](https://winmail-dat-extractor.vercel.app/how-to-open-winmail-dat-on-android/): Open a winmail.dat attachment on Android without installing an app. Download the file in Gmail or Outlook, extract the attachments in Chrome and unzip them locally.
+- [How to open winmail.dat on Windows 11 and 10](https://winmail-dat-extractor.vercel.app/how-to-open-winmail-dat-on-windows/): Open winmail.dat on Windows 11 or 10 without Outlook. Extract the TNEF attachments in your browser, or use Outlook or the command line, and get your files back.
+- [How to open winmail.dat on a Mac](https://winmail-dat-extractor.vercel.app/how-to-open-winmail-dat-on-mac/): Apple Mail cannot read Outlook TNEF files. Learn how to open winmail.dat on a Mac using a browser extractor, Outlook for Mac or the Terminal tnef command.
+- [How to open winmail.dat in Gmail](https://winmail-dat-extractor.vercel.app/how-to-open-winmail-dat-in-gmail/): Gmail cannot decode Outlook TNEF attachments. Learn why winmail.dat appears in Gmail and how to extract the real attachments in your browser in under a minute.
+- [Convert winmail.dat to ZIP](https://winmail-dat-extractor.vercel.app/winmail-dat-to-zip/): Convert winmail.dat to a ZIP archive in your browser. Understand what the conversion really does, what the ZIP contains and why some containers cannot be converted.
+- [Winmail.dat to PDF: how to get your document back](https://winmail-dat-extractor.vercel.app/winmail-dat-to-pdf/): You cannot convert winmail.dat to PDF, but you can extract the PDF the sender attached. How to recover it, and what to do when the container holds no PDF.
+- [ATT00001.dat and other strangely named attachments](https://winmail-dat-extractor.vercel.app/att00001-dat-file/): ATT00001.dat, win.dat and Part 1.2 attachments are usually the same Outlook TNEF container as winmail.dat. Learn what they are and how to extract the files inside.
+- [How to stop Outlook sending winmail.dat](https://winmail-dat-extractor.vercel.app/how-to-stop-outlook-sending-winmail-dat/): Stop Outlook creating winmail.dat attachments: change the message format to HTML, fix the Rich Text setting on saved contacts and adjust Exchange TNEF conversion.
+- [Is winmail.dat safe to open?](https://winmail-dat-extractor.vercel.app/is-winmail-dat-safe/): A winmail.dat file is a Microsoft container, not malware, but it can carry any attachment. How to check the sender, spot risky file types and extract it safely.
+
+## Site information
+- [About](https://winmail-dat-extractor.vercel.app/about/)
+- [Privacy policy](https://winmail-dat-extractor.vercel.app/privacy/)
+- [Terms of use](https://winmail-dat-extractor.vercel.app/terms/)
+- Source code: https://github.com/Ontheway00007/-winmail-dat-extractor
