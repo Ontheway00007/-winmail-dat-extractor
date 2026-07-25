@@ -33,7 +33,7 @@ Node 18+ and no runtime dependencies:
 ```bash
 node tools/build.mjs     # regenerate every page, sitemap, robots.txt, manifest, vercel.json
 node tools/check.mjs     # fail on broken links, invalid JSON-LD, duplicate titles, sitemap drift
-```
+```.
 
 Raster assets (Open Graph card and PWA icons) are committed, so they only need regenerating when the
 SVG sources change:
